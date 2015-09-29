@@ -1,0 +1,2 @@
+# NativeShare
+Native share plugin
